@@ -1,0 +1,13 @@
+path: e:/Criminal-Activity-Video-Surveillance-using-Deep-Learning-main/Datasets/Weapons/gun
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names: ['gun']
+
+roboflow:
+  workspace: university-of-centrel-punjab
+  project: gun-detection-ekvij
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/university-of-centrel-punjab/gun-detection-ekvij/dataset/3
